@@ -1,4 +1,5 @@
-# Otodom Housing Analysis
+# Comprehensive Analysis of the Polish Housing Market Using Otodom Data![image](https://github.com/Aishwaryasri15/otodom-sql-data-analytics/assets/53164418/70688c3c-75b2-4a93-9fe3-0a1f31eab2e2)
+
 
 This project provides a comprehensive analysis of the housing market in Poland, using data from the popular real estate website Otodom. The analysis aims to answer various questions related to renting and buying properties in major Polish cities.
 
